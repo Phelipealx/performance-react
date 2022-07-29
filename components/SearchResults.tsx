@@ -1,4 +1,5 @@
 import { List, ListRowRenderer } from "react-virtualized";
+
 import { ProductItem } from "./ProductItem";
 
 interface SearchResultsProps {
